@@ -1,3 +1,4 @@
+// comment
 fun main(args: Array<String>) {
   println("hello World")
 }
